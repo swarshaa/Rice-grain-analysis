@@ -1,2 +1,3 @@
 # Rice-grain-analysis
-This js 
+ 
+Rice Quality Detection Using Computer Vision
